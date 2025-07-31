@@ -46,7 +46,7 @@ src/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/deb-001/digischolar-user.git
+git clone https://github.com/Abhinaw-Aryan/DigiScholar-User-Portal.git
 cd digischolar
 ```
 
