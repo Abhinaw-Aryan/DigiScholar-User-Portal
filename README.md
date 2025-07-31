@@ -110,7 +110,8 @@ If deploying on [Vercel](https://vercel.com):
 
 ## 🙋‍♂️ Contributors
 
-- [deb-001](https://github.com/deb-001) — Project Owner & Developer
+- [deb-001](https://github.com/deb-001) — Developer & Tester
+- [Abhinaw-Aryan](https://github.com/Abhinaw-Aryan)-Developer & Tester
 
 ---
 
